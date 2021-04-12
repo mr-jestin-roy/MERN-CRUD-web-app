@@ -1,4 +1,4 @@
-# MOvie Reviewer Web App
+# Movie Reviewer Web App
 A Full Stack MERN app with CRUD operations for theatres where users can write reviews for movies that are available and admin can add a movie to the list and much more. 
 
 <h2>Installation </h2>
